@@ -52,7 +52,7 @@
 ### 2. Clone & Configure
 
 ```bash
-git clone https://github.com/CodeNinjaXd/SML-Mirror mirrorbot/
+git clone https://github.com/PmOfBangladesh/SML-Mirror mirrorbot/
 cd mirrorbot
 ```
 

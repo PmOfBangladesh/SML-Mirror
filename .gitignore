@@ -1,0 +1,30 @@
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Sensitive configs (users configure their own)
+config.py
+credentials.json
+cookies.txt
+rclone.conf
+token.pickle
+config
+*.session
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+
+# Test files
+test_drive_file
+re.txt
+count.txt
