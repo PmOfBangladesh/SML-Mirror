@@ -1,6 +1,18 @@
 services:
   app:
     build: .
+    container_name: sml-mirror
     command: bash start.sh
     restart: on-failure
     network_mode: "host"
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - .:/usr/src/app
+      - downloads:/usr/src/app/downloads
+    environment:
+      - TZ=UTC
+
+volumes:
+  downloads:
