@@ -19,6 +19,7 @@ from ...ext_utils.help_messages import PASSWORD_ERROR_MESSAGE
 from ...ext_utils.links_utils import is_share_link
 from ...ext_utils.status_utils import speed_string_to_bytes
 from .fb_downloader import get_fb_direct_link as fb_dl
+from .insta_downloader import get_insta_direct_links as insta_dl
 
 # GoFile token cache to avoid rate limiting
 gofile_token_cache = None
@@ -213,7 +214,7 @@ def direct_link_generator(link):
     ):
         return fb_dl(link)
     elif "instagram.com" in domain:
-        return instagram(link)
+        return insta_dl(link)
     elif any(x in domain for x in ["akmfiles.com", "akmfls.xyz"]):
         return akmfiles(link)
     elif any(
@@ -2070,35 +2071,5 @@ def swisstransfer(link):
     }
 
 
-def instagram(link: str) -> str:
-    """
-    Fetches the direct video download URL from an Instagram post.
-
-    Args:
-        link (str): The Instagram post URL.
-
-    Returns:
-        str: The direct video URL.
-
-    Raises:
-        DirectDownloadLinkException: If any error occurs during the process.
-    """
-    api_url = Config.INSTADL_API or "https://instagramcdn.vercel.app"
-    full_url = f"{api_url}/api/video?postUrl={link}"
-
-    try:
-        response = get(full_url)
-        response.raise_for_status()
-        data = response.json()
-
-        if (
-            data.get("status") == "success"
-            and "data" in data
-            and "videoUrl" in data["data"]
-        ):
-            return data["data"]["videoUrl"]
-
-        raise DirectDownloadLinkException("ERROR: Failed to retrieve video URL.")
-
-    except Exception as e:
-        raise DirectDownloadLinkException(f"ERROR: {e}")
+# Instagram downloader moved to insta_downloader.py (FastDL API)
+# See: bot/helper/mirror_leech_utils/download_utils/insta_downloader.py
