@@ -1,0 +1,787 @@
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:06 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:06 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:07:16 - qBittorrent v5.2.3 started. Process ID: 57
+(N) 2026-08-11T20:07:16 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:16 - qBittorrent termination initiated
+(N) 2026-08-11T20:07:16 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:07:16 - qBittorrent v5.2.3 started. Process ID: 58
+(N) 2026-08-11T20:07:16 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:07:16 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:07:16 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:07:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:07:16 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:07:16 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:07:16 - Anonymous mode: OFF
+(I) 2026-08-11T20:07:16 - Encryption support: ON
+(I) 2026-08-11T20:07:16 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:07:16 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:07:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:07:16 - Using built-in WebUI.
+(W) 2026-08-11T20:07:16 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:07:16 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:16 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:17 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:07:27 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:07:27 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:27 - qBittorrent termination initiated
+(N) 2026-08-11T20:07:27 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:07:27 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:07:27 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:27 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:07:27 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:07:27 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:07:27 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:07:27 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:07:27 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:07:27 - Anonymous mode: OFF
+(I) 2026-08-11T20:07:27 - Encryption support: ON
+(I) 2026-08-11T20:07:27 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:07:27 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:07:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:07:27 - Using built-in WebUI.
+(W) 2026-08-11T20:07:27 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:07:27 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:27 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:27 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:07:37 - qBittorrent v5.2.3 started. Process ID: 56
+(N) 2026-08-11T20:07:37 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:37 - qBittorrent termination initiated
+(N) 2026-08-11T20:07:37 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:07:37 - qBittorrent v5.2.3 started. Process ID: 57
+(N) 2026-08-11T20:07:37 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:37 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:07:37 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:07:37 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:07:37 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:07:37 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:07:37 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:07:37 - Anonymous mode: OFF
+(I) 2026-08-11T20:07:37 - Encryption support: ON
+(I) 2026-08-11T20:07:37 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:07:37 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:07:37 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:07:38 - Using built-in WebUI.
+(W) 2026-08-11T20:07:38 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:07:38 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:38 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:38 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:07:49 - qBittorrent v5.2.3 started. Process ID: 48
+(N) 2026-08-11T20:07:49 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:49 - qBittorrent termination initiated
+(N) 2026-08-11T20:07:49 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:07:49 - qBittorrent v5.2.3 started. Process ID: 49
+(N) 2026-08-11T20:07:49 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:07:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:07:49 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:07:49 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:07:49 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:07:49 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:07:49 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:07:49 - Anonymous mode: OFF
+(I) 2026-08-11T20:07:49 - Encryption support: ON
+(I) 2026-08-11T20:07:49 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:07:49 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:07:49 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:07:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:07:49 - Using built-in WebUI.
+(W) 2026-08-11T20:07:49 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:07:49 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:07:49 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:00 - qBittorrent v5.2.3 started. Process ID: 57
+(N) 2026-08-11T20:08:00 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:00 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:00 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:00 - qBittorrent v5.2.3 started. Process ID: 58
+(N) 2026-08-11T20:08:00 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:00 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:00 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:00 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:00 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:00 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:00 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:00 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:00 - Encryption support: ON
+(I) 2026-08-11T20:08:00 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:00 - Using built-in WebUI.
+(W) 2026-08-11T20:08:00 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:00 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:00 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:00 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:11 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:08:11 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:11 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:11 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:11 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:08:11 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:11 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:11 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:11 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:11 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:11 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:11 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:11 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:11 - Encryption support: ON
+(I) 2026-08-11T20:08:11 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:11 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:11 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:11 - Using built-in WebUI.
+(W) 2026-08-11T20:08:11 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:11 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:11 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:22 - qBittorrent v5.2.3 started. Process ID: 58
+(N) 2026-08-11T20:08:22 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:22 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:22 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:22 - qBittorrent v5.2.3 started. Process ID: 59
+(N) 2026-08-11T20:08:22 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:22 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:22 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:22 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:22 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:22 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:22 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:22 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:22 - Encryption support: ON
+(I) 2026-08-11T20:08:22 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:22 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:22 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:22 - Using built-in WebUI.
+(W) 2026-08-11T20:08:22 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:22 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:22 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:32 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:08:32 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:32 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:32 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:32 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:08:32 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:32 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:32 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:32 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:32 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:32 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:32 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:32 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:32 - Encryption support: ON
+(I) 2026-08-11T20:08:32 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:32 - Using built-in WebUI.
+(W) 2026-08-11T20:08:32 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:32 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:32 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:32 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:32 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:43 - qBittorrent v5.2.3 started. Process ID: 49
+(N) 2026-08-11T20:08:43 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:43 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:43 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:43 - qBittorrent v5.2.3 started. Process ID: 50
+(N) 2026-08-11T20:08:43 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:43 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:43 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:43 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:43 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:43 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:43 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:43 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:43 - Encryption support: ON
+(I) 2026-08-11T20:08:43 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:43 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:43 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:43 - Using built-in WebUI.
+(W) 2026-08-11T20:08:43 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:43 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:43 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:43 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:08:54 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:08:54 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:54 - qBittorrent termination initiated
+(N) 2026-08-11T20:08:54 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:08:54 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:08:54 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:08:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:08:54 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:08:54 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:08:54 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:08:54 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:08:54 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:08:54 - Anonymous mode: OFF
+(I) 2026-08-11T20:08:54 - Encryption support: ON
+(I) 2026-08-11T20:08:54 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:08:54 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:08:54 - Using built-in WebUI.
+(W) 2026-08-11T20:08:54 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:08:54 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:08:54 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:08:54 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:08:54 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:05 - qBittorrent v5.2.3 started. Process ID: 40
+(N) 2026-08-11T20:09:05 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:05 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:05 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:05 - qBittorrent v5.2.3 started. Process ID: 41
+(N) 2026-08-11T20:09:05 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:05 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:05 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:05 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:05 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:05 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:05 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:05 - Encryption support: ON
+(I) 2026-08-11T20:09:05 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:05 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:05 - Using built-in WebUI.
+(W) 2026-08-11T20:09:05 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:05 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:05 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:05 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:16 - qBittorrent v5.2.3 started. Process ID: 61
+(N) 2026-08-11T20:09:16 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:16 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:16 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:16 - qBittorrent v5.2.3 started. Process ID: 62
+(N) 2026-08-11T20:09:16 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:16 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:16 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:16 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:16 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:16 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:16 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:16 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:16 - Encryption support: ON
+(I) 2026-08-11T20:09:16 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:16 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:16 - Using built-in WebUI.
+(W) 2026-08-11T20:09:16 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:16 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:16 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:16 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:27 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:09:27 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:27 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:27 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:27 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:09:27 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:27 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:27 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:27 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:27 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:27 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:27 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:27 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:27 - Encryption support: ON
+(I) 2026-08-11T20:09:27 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:27 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:27 - Using built-in WebUI.
+(W) 2026-08-11T20:09:27 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:27 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:27 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:27 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:37 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:09:37 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:37 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:37 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:37 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:09:37 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:37 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:37 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:37 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:37 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:37 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:37 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:37 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:37 - Encryption support: ON
+(I) 2026-08-11T20:09:37 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:37 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:37 - Using built-in WebUI.
+(W) 2026-08-11T20:09:37 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:37 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:37 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:38 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:48 - qBittorrent v5.2.3 started. Process ID: 61
+(N) 2026-08-11T20:09:48 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:48 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:48 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:48 - qBittorrent v5.2.3 started. Process ID: 62
+(N) 2026-08-11T20:09:48 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:48 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:48 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:48 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:48 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:48 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:48 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:48 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:48 - Encryption support: ON
+(I) 2026-08-11T20:09:48 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:48 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:48 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:48 - Using built-in WebUI.
+(W) 2026-08-11T20:09:48 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:48 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:48 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:09:58 - qBittorrent v5.2.3 started. Process ID: 44
+(N) 2026-08-11T20:09:58 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:58 - qBittorrent termination initiated
+(N) 2026-08-11T20:09:58 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:09:58 - qBittorrent v5.2.3 started. Process ID: 45
+(N) 2026-08-11T20:09:58 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:09:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:09:58 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:09:58 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:09:58 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:09:58 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:09:58 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:09:58 - Anonymous mode: OFF
+(I) 2026-08-11T20:09:58 - Encryption support: ON
+(I) 2026-08-11T20:09:58 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:09:58 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:09:58 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:09:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:09:58 - Using built-in WebUI.
+(W) 2026-08-11T20:09:58 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:09:58 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:09:58 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:10:10 - qBittorrent v5.2.3 started. Process ID: 58
+(N) 2026-08-11T20:10:10 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:10 - qBittorrent termination initiated
+(N) 2026-08-11T20:10:10 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:10:10 - qBittorrent v5.2.3 started. Process ID: 59
+(N) 2026-08-11T20:10:10 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:10:10 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:10:10 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:10:10 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:10:10 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:10:10 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:10:10 - Anonymous mode: OFF
+(I) 2026-08-11T20:10:10 - Encryption support: ON
+(I) 2026-08-11T20:10:10 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:10:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:10:10 - Using built-in WebUI.
+(W) 2026-08-11T20:10:10 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:10:10 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:10:10 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:10:10 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:10:10 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:10:20 - qBittorrent v5.2.3 started. Process ID: 44
+(N) 2026-08-11T20:10:20 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:20 - qBittorrent termination initiated
+(N) 2026-08-11T20:10:20 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:10:20 - qBittorrent v5.2.3 started. Process ID: 45
+(N) 2026-08-11T20:10:20 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:20 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:10:20 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:10:20 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:10:20 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:10:20 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:10:20 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:10:20 - Anonymous mode: OFF
+(I) 2026-08-11T20:10:20 - Encryption support: ON
+(I) 2026-08-11T20:10:20 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::4ca7:35ff:fe3f:d73c%eth1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::b8b9:c1ff:fe9b:e936%br-8363048d1d51". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "TCP/33636"
+(I) 2026-08-11T20:10:20 - Successfully listening on IP. IP: "fe80::14d3:e0ff:fe9f:b82c%veth7e57be3". Port: "UTP/33636"
+(I) 2026-08-11T20:10:20 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:10:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:10:21 - Using built-in WebUI.
+(W) 2026-08-11T20:10:21 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:10:21 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:10:21 - Detected external IP. IP: "178.128.119.129"
+(N) 2026-08-11T20:10:31 - qBittorrent v5.2.3 started. Process ID: 63
+(N) 2026-08-11T20:10:31 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:31 - qBittorrent termination initiated
+(N) 2026-08-11T20:10:31 - qBittorrent is now ready to exit
+(N) 2026-08-11T20:10:31 - qBittorrent v5.2.3 started. Process ID: 64
+(N) 2026-08-11T20:10:31 - Using config directory: /usr/src/app/qBittorrent/config
+(N) 2026-08-11T20:10:31 - Trying to listen on the following list of IP addresses: "0.0.0.0:33636,[::]:33636"
+(I) 2026-08-11T20:10:32 - Peer ID: "-qB5230-"
+(I) 2026-08-11T20:10:32 - HTTP User-Agent: "qBittorrent/5.2.3"
+(I) 2026-08-11T20:10:32 - Distributed Hash Table (DHT) support: ON
+(I) 2026-08-11T20:10:32 - Local Peer Discovery support: ON
+(I) 2026-08-11T20:10:32 - Peer Exchange (PeX) support: ON
+(I) 2026-08-11T20:10:32 - Anonymous mode: OFF
+(I) 2026-08-11T20:10:32 - Encryption support: ON
+(I) 2026-08-11T20:10:32 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-08-11T20:10:32 - UPnP/NAT-PMP support: ON
+(I) 2026-08-11T20:10:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 01:37:09 2026.
+(N) 2026-08-11T20:10:32 - Using built-in WebUI.
+(W) 2026-08-11T20:10:32 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-08-11T20:10:32 - WebUI: Now listening on IP: *, port: 8090
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "178.128.119.129". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "178.128.119.129". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "10.15.0.5". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "10.15.0.5". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "10.104.0.3". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "10.104.0.3". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "172.18.0.1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "172.18.0.1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "::1". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "::1". Port: "UTP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "TCP/33636"
+(I) 2026-08-11T20:10:32 - Successfully listening on IP. IP: "fe80::f01f:4bff:fecf:8183%eth0". Port: "UTP/33636"

@@ -24,7 +24,7 @@ from ...ext_utils.exceptions import DirectDownloadLinkException
 
 FB_API_URL = "https://fbdown.blog/get.php"
 FB_API_METHOD = "POST"  # POST or GET
-FB_REQUEST_TIMEOUT = 30  # seconds
+FB_REQUEST_TIMEOUT = 60  # seconds
 
 # User-Agent used for API requests
 FB_USER_AGENT = (

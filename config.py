@@ -1,19 +1,19 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "123...Token"
-OWNER_ID = 1234567890
-TELEGRAM_API = 12345678
-TELEGRAM_HASH = "123...Hash"
+BOT_TOKEN = "8971885468:AAEoZKgHimkxOT-NFHnhWPcYlyc_SVvoqio"
+OWNER_ID = 8549046507
+TELEGRAM_API =26512884
+TELEGRAM_HASH = "c3f491cd59af263cfc249d3f93342ef8"
 DATABASE_URL = ""
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
 TG_PROXY = (
     {}
-)  # {"scheme": "socks5", "hostname": "", "port": 1234, "username": "user", "password": "pass"}
+)  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
-SUDO_USERS = ""
+SUDO_USERS = "5675590980"
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -43,8 +43,8 @@ DISABLE_SEED = False
 DISABLE_FF_MODE = False
 
 # Telegraph
-AUTHOR_NAME = "SML-Mirror"
-AUTHOR_URL = "https://t.me/NullError_XD"
+AUTHOR_NAME = "SML"
+AUTHOR_URL = "https://t.me/CodeNinjaXD"
 
 # Task Limits
 DIRECT_LIMIT = 0
@@ -103,22 +103,22 @@ TIMEZONE = "Asia/Dhaka"
 
 # GDrive Tools
 GDRIVE_ID = ""
-GD_DESP = "Uploaded with SML-Mirror"
+GD_DESP = "Uploaded with SML Mirror"
 IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 #INDEX_URL = ""
 
 # YT Tools
-YT_COOKIES_URL = ""
-YT_DESP = "Uploaded to YouTube by SML-Mirror bot"
+YT_COOKIES_URL ="https://gist.githubusercontent.com/PmOfBangladesh/443dcf51e3cbb70e28a414878dbc4931/raw/e571160575758b97f7d8cdb0fe670b59e826b03d/gistfile1.txt"
+YT_DESP = "Uploaded to YouTube by WZML-X bot"
 YT_TAGS = ["telegram", "bot", "youtube"]  # or as a comma-separated string
 YT_CATEGORY_ID = 22
 YT_PRIVACY_STATUS = "unlisted"
 
 # Rclone
-RCLONE_PATH = "RemoteName:path"
+RCLONE_PATH = "RemoteName:mirrorbot"
 RCLONE_FLAGS = ""
-INDEX_URL = "https://your-index.workers.dev/"
+INDEX_URL = "https://mirror.smltheunknown.workers.dev/"
 RCLONE_SERVE_URL = ""
 SHOW_CLOUD_LINK = True
 RCLONE_SERVE_PORT = 0
@@ -170,9 +170,9 @@ LEECH_CAPTION = ""
 THUMBNAIL_LAYOUT = ""
 
 # Log Channels
-LEECH_DUMP_CHAT = ""
-LINKS_LOG_ID = ""
-MIRROR_LOG_ID = ""
+LEECH_DUMP_CHAT = "-1003388776958"
+LINKS_LOG_ID = "-1003388776958"
+MIRROR_LOG_ID = "-1003388776958"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
@@ -212,3 +212,5 @@ SEARCH_PLUGINS = [
     "https://raw.githubusercontent.com/msagca/qbittorrent_plugins/main/uniondht.py",
     "https://raw.githubusercontent.com/khensolomon/leyts/master/yts.py",
 ]
+
+

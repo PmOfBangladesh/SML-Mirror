@@ -33,7 +33,14 @@ async def send_message(message, text, buttons=None, block=True, photo=None, **kw
     try:
         if photo:
             try:
-                if isinstance(message, int):
+                if isinstance(message, str):
+            return await TgClient.bot.send_message(
+                chat_id=Config.OWNER_ID,
+                text=f"System: {text}",
+                disable_web_page_preview=True,
+                disable_notification=True,
+            )
+        elif isinstance(message, int):
                     return await TgClient.bot.send_photo(
                         chat_id=message,
                         photo=photo,
@@ -71,7 +78,14 @@ async def send_message(message, text, buttons=None, block=True, photo=None, **kw
             except Exception:
                 LOGGER.error("Error while sending photo", exc_info=True)
                 return
-        if isinstance(message, int):
+        if isinstance(message, str):
+            return await TgClient.bot.send_message(
+                chat_id=Config.OWNER_ID,
+                text=f"System: {text}",
+                disable_web_page_preview=True,
+                disable_notification=True,
+            )
+        elif isinstance(message, int):
             return await TgClient.bot.send_message(
                 chat_id=message,
                 text=text,
